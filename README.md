@@ -6,7 +6,7 @@ Brian's intermediate-python class is deployed using JupyterLite on GitHub Pages.
 
 ## ✨ Try it in your browser ✨
 
-➡️ **https://smokingpuffin.github.io/intermediate-python**
+➡️ **https://brianhmiller.github.io/intermediate-python**
 
 ![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
 
